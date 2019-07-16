@@ -1,4 +1,4 @@
-#encoding:utf-8
+#coding:utf-8
 import re,requests,sys,time
 from bs4 import BeautifulSoup
 
